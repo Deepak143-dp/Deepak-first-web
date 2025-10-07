@@ -35,4 +35,4 @@ It serves as my digital resume and a central hub for exploring my work, includin
 
 - **LinkedIn:** [Deepak Kumar](https://www.linkedin.com/in/deepak-kumar-350848252/)
 - **GitHub:** [Deepak143-dp](https://github.com/Deepak143-dp)
-- **Email:** _[My Gmail ](deepakkumar.2024@gmail.com)
+- **Email:** [My Gmail ](deepakkumar.2024@gmail.com)
